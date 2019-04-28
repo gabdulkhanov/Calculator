@@ -1,0 +1,39 @@
+body {
+	background-color: #888;
+}
+input[type="text"] {
+	font-family: "Times New Roman", Arial, sans-serif;
+	font-size: 24px;
+	width: 340px;
+	height: 30px;
+	margin: 10px;
+	text-align: right;
+	color: transparent;
+	text-shadow: 0 0 0 black;
+}
+input[type="button"] {
+	width: 50px;
+	height: 40px;
+	margin: 10px;		
+}
+
+#calc {
+	width: 370px;
+	height: 300px;			
+	background-color: #bbb;
+	border: 1px solid black;
+	text-align: center;	
+	margin: 100px auto;
+	box-shadow: 5px 3px 10px #003;
+}
+#btns09 {
+	width: 220px;
+	height: 250px;	
+	display: inline-block;	
+	float: left;	
+}
+#math {
+	width: 150px;
+	height: 250px;	
+	display: inline-block;
+}
